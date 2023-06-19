@@ -19,6 +19,6 @@ Authors: Majid Manzari; Majid Manzari
 License: Open Data Commons Attribution License (ODC-By) v1.0
 
 *Description*
-*The above link contains the results of strain-controlled cyclic triaxial and cyclic direct simple shear tests performed on Ottawa F65 sand. The datasets for triaxial tests are published as a separate experiment. The cyclic direct simple shear tests are also presented in two separate datasets: one for specimens subjected to uniform shear stress waves and the second one for specimens subjected to non-uniform shear stress waves.
+*The above link contains the results of strain-controlled cyclic triaxial and cyclic direct simple shear tests performed on Ottawa F65 sand. The datasets for triaxial tests are published as a separate experiment. The cyclic direct simple shear tests are also presented in two separate datasets: one for specimens subjected to uniform shear stress waves and the second one for specimens subjected to non-uniform shear stress waves.*
 
 *Please refer to the provided links for more information and to access the datasets.*
